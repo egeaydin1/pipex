@@ -1,4 +1,4 @@
-# 🔧 Pipex Cheat Sheet
+
 
 ## 📌 Proje Özeti
 **Amaç:** Shell'deki pipe mekanizmasını implement etmek
